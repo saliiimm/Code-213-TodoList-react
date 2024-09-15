@@ -10,10 +10,10 @@ function App() {
     'Going for the win',
   ];
   return (
-    <>
+    <div className="mainapp">
       <MyTitle titre={'ToDolist Project'} />
       <TaskList list={tasks} />
-    </>
+    </div>
   );
 }
 

@@ -5,6 +5,5 @@
   justify-content: center;
   flex-direction: column;
   gap: 20px;
-  padding-inline: 0;
-  padding-block: 20px;
+  padding-inline: 1.5%;
 }
