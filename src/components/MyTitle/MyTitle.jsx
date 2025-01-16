@@ -1,10 +1,10 @@
 /* eslint-disable react/prop-types */
 import './MyTitle.css';
 
-const MyTitle = ({ titre }) => {
+const MyTitle = () => {
   return (
     <div className="header">
-      <h1>{titre}</h1>
+      <h1>ToDolist Project</h1>
     </div>
   );
 };

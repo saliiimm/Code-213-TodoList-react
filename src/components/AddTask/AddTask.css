@@ -1,0 +1,24 @@
+.inputDiv {
+  width: 95%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding-inline: 10px;
+  padding-block: 20px;
+  background-color: coral;
+  border-radius: 15px;
+}
+
+.inputDiv input {
+  width: 60%;
+  height: 40px;
+  border-radius: 4px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+
+.inputDiv button {
+  background-color: green;
+}

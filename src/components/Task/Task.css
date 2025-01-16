@@ -9,3 +9,17 @@ li {
   padding-inline: 15px;
   background-color: #fff4e0;
 }
+
+button {
+  padding-inline: 15px;
+  padding-block: 5px;
+  border-radius: 8px;
+}
+
+.myItems .edit {
+  background-color: cadetblue;
+}
+
+.myItems .delete {
+  background-color: crimson;
+}
